@@ -1,6 +1,6 @@
 #Code
 
-#Project with a littl bit of help from the outside
+
 
 import streamlit as st
 import plotly.express as px
